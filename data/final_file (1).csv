@@ -1,0 +1,51 @@
+url,title,content,lang,content_extracted,error,extracted_title,extracted_content,article_source,overall_sentiment,nature_dimension,nature_sentiment,functional_dimension,functional_sentiment,normative_dimension,normative_sentiment,cultural_dimension,cultural_sentiment,disinformation_type,disinformation_technique,summary
+http://twitter.com/MarieLaureDupon/status/1824491265116807532,,RT @Tian_A1: La vaccination contre la variole du singe debute en #Suisse romande [ https://t.co/J9xJ5h2Zcb ] Les doses de vaccins contre la variole du singe seront livrees aux cantons les plus #Touches a partir de cette fin de semaine. https://t.co/6Ast1w80H7,fr,False,Article `download()` failed with 400 Client Error: Bad Request for url: https://x.com/MarieLaureDupon/status/1824491265116807532 on URL http://twitter.com/MarieLaureDupon/status/1824491265116807532,,,content,Negative,Geography,Neutral,Politics,Negative,Environmental protection,Neutral,None,No Sentiment,False context,False dichotomies,The article is about the beginning of the vaccination campaign for the monkeypox in the Swiss cantons.
+https://www.rfj.ch/rfj/Actualite/Culture/Locarno-prix-du-public-pour-Klaudia-Reynicke.html,Locarno: prix du public pour Klaudia Reynicke,"La réalisatrice helvético-péruvienne Klaudia Reynicke remporte le prix du public du Festival de Locarno. Entre monde rêvé et réalisme, son film 'Reinas' (Les reines) est une chronique familiale qui se déroule dans les années 90 à Lima.
+
+Le film a con...",fr,False,"Article `download()` failed with HTTPSConnectionPool(host='www.rfj.ch', port=443): Max retries exceeded with url: /rfj/Actualite/Culture/Locarno-prix-du-public-pour-Klaudia-Reynicke.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))) on URL https://www.rfj.ch/rfj/Actualite/Culture/Locarno-prix-du-public-pour-Klaudia-Reynicke.html",,,content,Negative,Landscape/scenery,Positive,Education system,Positive,Environmental protection,Positive,Cultural offer,Positive,No disinformation,No disinformation technique,The article is about a film festival in Switzerland.
+http://twitter.com/_Loux7_/status/1825930036077056324,,@GoeyvaertsJrme1 @DansLaMusette Belle saison de merde pour lui c'est pas le tour de Romandie je pense qui va le rendre heureux,fr,False,Article `download()` failed with 400 Client Error: Bad Request for url: https://x.com/_Loux7_/status/1825930036077056324 on URL http://twitter.com/_Loux7_/status/1825930036077056324,,,content,Very negative,Landscape/scenery,Very negative,Functional Dimension not addressed,Very negative,Normative Dimension not addressed,Very negative,Normative Dimension not addressed,Very negative,No disinformation type,Ad hominem attack,The tweet is about a person's opinion on a football player's performance in a football match.
+https://www.arcinfo.ch/suisse/education-lheure-de-la-rentree-a-sonne-pour-les-petits-romands-1412838,Education: l'heure de la rentrée a sonné pour les petits Romands,"Des centaines de milliers d'enfants reprennent l'école en Suisse romande, sauf à Fribourg. Vaud accueille le plus grand nombre d'élèves, tandis que Neuchâtel enregistre une baisse. Les pénuries d'enseignants préoccupent plusieurs cantons.",fr,True,,Education: l'heure de la rentrée a sonné pour les petits Romands,"Pour le début de la nouvelle année scolaire, les élèves de première année sont accueillis devant l'école primaire Volta, à Bâle, le lundi 12 août 2024.
+
+KEYSTONE / GEORGIOS KEFALAS",content,Negative,Geography,Neutral,Education system,Negative,Environmental protection,Negative,Other aspect of Culture dimension,Neutral,False connection,False dichotomies,"The article discusses the situation of education in Switzerland, specifically the number of students in different cantons."
+https://www.gastronomie-magazin.com/news/food-save-genial-in-der-schweiz/,Food Save genial in der Schweiz,Vom 16. August bis 3. November laden lokale Akteur:innen in der ganzen  Schweiz Jung und Alt ein zu einem feinen Menü aus Lebensmittelüberschüssen. Unter dem Namen foodsave-bankette.ch wird die Freude am gemeinsamen Essen und die Wertschätzung von Na...,de,True,,Food Save genial in der Schweiz,"Vom 16. August bis 3. November laden lokale Akteur:innen in der ganzen Schweiz Jung und Alt ein zu einem feinen Menü aus Lebensmittelüberschüssen. Unter dem Namen foodsave-bankette.ch wird die Freude am gemeinsamen Essen und die Wertschätzung von Nahrungsmitteln zelebriert – ein genussvoller Aufruf zum Schutz des Klimas.
+
+Die Gemeinschaft an Foodsave-Banketten wächst von Jahr zu Jahr: 2024 bereiteten und bereiten Küchenprofis bereits in 22 Ortschaften der Deutschschweiz und der Romandie ein festliches 3-Gang-Menü aus einwandfreien Lebensmitteln zu, die den Weg zu den Konsument:innen auf dem üblichen Handelsweg nicht geschafft haben. Eingeladen ist die ganze Bevölkerung. Bezahlt wird, was einem die Mahlzeit wert ist.
+
+Foodsave-Bankette 2024Freitag, 16. August Langnau
+
+Samstag, 24. August Baden
+
+Sonntag, 25. August St-Ursanne
+
+Freitag. 6. September Burgdorf, Chur, Ins
+
+Samstag, 7. September Biel, Olten, Zuchwil
+
+Sonntag, 8. September Epalinges
+
+Samstag, 14. September Münsingen, Solothurn
+
+Freitag, 20. September Bern
+
+Samstag, 21. September Basel, Grenchen
+
+Samstag, 28. September Luzern
+
+Samstag, 26. Oktober Thun
+
+Sonntag, 3. November Morges
+
+St. Gallen, Lausanne, Cordast und Zürich führten ihr Foodsave-Bankett bereits im Mai und Juni erfolgreich durch: In St. Gallen war wiederum eine Schulklasse mit Ergänzungsfach Nachhaltigkeit der Kantonsschule am Burggraben Hauptkoordinatorin des Anlasses, in Lausanne wurden über 500 Menüs geschöpft, in Cordast anlässlich des Kirchenjubiläums gefeiert und in der Zürcher Europaallee die Bevölkerung gleich einen ganzen Tag mit Köstlichkeiten sensibilisiert.
+
+Freiwillige gesuchtWer diesem Anlass nicht nur als Gast bewohnen, sondern mit einem freiwilligen Einsatz zum Gelingen beitragen will, dessen Unterstützung ist an einem der Bankette sehr gefragt: Interessierte können sich auf www.foodsave-bankette.ch unter dem jeweiligen Ort melden. Dort sind auch aktuelle Informationen zu den einzelnen Veranstaltungen publiziert.
+
+Lokal vernetzt…Foodsave-Bankette gewinnen nicht nur die Bevölkerung auf genussvolle Weise für weniger Food Waste und mehr Wertschätzung von Lebensmitteln: Vom Feld bis zum Teller finden Beteiligte der ganzen Lebensmittelkette zusammen und leisten einen konkreten Beitrag, Food Waste in der Schweiz so rasch wie möglich zu halbieren – idealerweise bereits bis 2030. Das Erfolgsrezept? Verschiedenste Akteur:innen eines Dorfs, eines Tals, einer Agglomeration oder einer Stadt bilden eine organisch wachsende, agile Interessensgemeinschaft, in der man sich auch über das Bankett hinaus gegenseitig unterstützt und am gleichen Strick zieht.
+
+… national bewegtAus diesen einzelnen lokalen Netzwerken ist in den vergangenen Jahren eine nationale Bewegung mit über 500 (!) Akteur:inen und unzähligen Helfer:innen gewachsen. So haben es sich die Initianten von foodsave-bankette.ch erhofft: die offene kirche bern, foodwaste.ch, HEKS/Brot für alle und die OGG Bern. foodwaste.ch betreibt die Koordinationsstelle. Nach dem Prinzip «Hilfe zur Selbsthilfe» berät und begleitet die gemeinnützige Organisation die lokalen Teams von der Konstituierung bis zur erfolgreichen Durchführung des Banketts und unterstützt sie bei der Bekanntmachung der Anlässe. Dass neue Austragungsorte eine finanzielle Anschubhilfe erhalten, ist dank einer grosszügigen Beteiligung der SV Stiftung und der OGG Bern möglich. So geht «Global denken – lokal handeln».
+
+Viele Wege – 1 ZielJeder Austragungsort stellt sein Bankett auf seine eigene stimmungsvolle Art unter ein selbst gewähltes Fokusthema: In Basel «zählt jedes Brötchen», Langnau regt mit «Chrut u Rüebli isch ke Chabis – wir festen mit Resten!» zum nachhaltigen Genuss an und in Ins «chocht es Dorf für d Wält». So entsteht eine stimmige Vielfalt, die gesamtschweizerisch durch einen neuen kommunikativen Auftritt zusammengehalten wird – mit Foodsave-Maskottchen, so frisch und (g)luschtig wie gerettetes Gemüse oder und Obst.
+
+Weitere Infos: www.foodsave-bankette.ch",extracted_content,Positive,Food,Positive,Economy,Positive,Environmental protection,Positive,Food,Positive,No disinformation,False dichotomies,The article is about a food bankette initiative in Switzerland to reduce food waste and promote sustainability.
+https://news.dayfr.com/nouvelles/4130076.html,"frappé par la foudre, le bateau « Vevey » est hors service – .","– Frappé par la foudre, le « Vevey » est hors service Le navire à propulsion diesel-électrique a été touché par un incendie venu du ciel dans la nuit de mardi à mercredi au Bouveret. Son mât arrière est brisé. Publié aujourd'hui à 17h28 Le « Vevey »,...",fr,True,,404. That's an error.,"We use cookies to improve your experience. By continuing, you agree to our Privacy Policy.
+
+Accept",content,2.,,4.,,6.,,8.,,10.,,12.,

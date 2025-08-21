@@ -1,0 +1,69 @@
+questions_12 = [
+      "What is the overall sentiment regarding Switzerland? (Very negative, Negative, Neutral, Positive, Very positive)",
+      "Which aspect of the natural dimension is discussed? (Nature Dimension not addressed, Landscape/scenery, Geography, Weather/climate, Preserved nature, Nature activities, Other aspect of Nature dimension)",
+      "What is the sentiment toward the natural dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+      "Which aspect of the functional dimension is discussed? (Functional Dimension not addressed, Education system, Science/innovation, Products, Economy, Infrastructure, Politics, Living/working conditions, Security, Other aspect of Functional dimension)",
+      "What is the sentiment toward the functional dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+      "Which aspect of the normative dimension is discussed? (Normative Dimension not addressed, Environmental protection, Freedom/human rights, Civil rights, International engagement, Ethical issues/scandals, Conflict avoidance, Tolerance/openness, Other aspect of Normative dimension)",
+      "What is the sentiment toward the normative dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+      "Which aspect of the cultural dimension is discussed? (Cultural Dimension not addressed, Sports, Food, Cultural offer, Personalities, Traditions, History, Cultural diversity, Other aspect of Culture dimension)",
+      "What is the sentiment toward the cultural dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+      "Does the article contain disinformation? (No disinformation type, False connection, False context, Misleading content, Fabricated content, Manipulated content, Other disinformation type)",
+      "What disinformation technique is used, if any? (No disinformation technique, Ad hominem attack, Emotional language, False dichotomies, Incoherence, Scapegoating, Other disinformation technique)",
+      "What is the article about in short?"
+    ]
+
+columns_12 = [
+        'overall_sentiment',
+        'nature_dimension',
+        'nature_sentiment',
+        'functional_dimension',
+        'functional_sentiment',
+        'normative_dimension',
+        'normative_sentiment',
+        'cultural_dimension',
+        'cultural_sentiment',
+        'disinformation_type',
+        'disinformation_technique',
+        'summary'
+    ]
+
+
+questions_6 = [
+        "What is the overall sentiment regarding Switzerland? (Very negative, Negative, Neutral, Positive, Very positive)",
+        "What is the sentiment toward the natural dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+        "What is the sentiment toward the functional dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+        "What is the sentiment toward the normative dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+        "What is the sentiment toward the cultural dimension? (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)",
+        "Does the article contain disinformation? (No disinformation type, False connection, False context, Misleading content, Fabricated content, Manipulated content, Other disinformation type)",
+    ]
+
+columns_6 = [
+        'overall_sentiment',
+        'nature_sentiment',
+        'functional_sentiment',
+        'normative_sentiment',
+        'cultural_sentiment',
+        'disinformation_type',
+    ]
+	
+	
+	
+prompt = f"""
+        You are given an article about Switzerland. Read it carefully.
+
+        ARTICLE:
+        {article}
+
+        TASK:
+        Answer the following multiple-choice questions based only on the information in the article.
+
+        Instructions:
+        - Choose **only one** of the options provided for each question.
+        - Write only the selected option.
+        - **Do not** explain your answer.
+
+        QUESTIONS:
+        """
+for i, q in enumerate(questions, 1):
+	prompt += f"{i}. {q}\n"

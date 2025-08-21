@@ -1,0 +1,55 @@
+questions_12 = [
+        "Regarding Switzerland, what is the overall sentiment among the following possible answers? please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, or Very positive)",
+        "Regarding natural dimension in Switzerland, what is the article about? Please answer with one of the only possible following answers (Nature Dimension not addressed, Landscape/scenery, Geography, Weather/climate, Preserved nature, Nature activities, Other aspect of Nature dimension)?",
+        "Regarding natural dimension in Switzerland, what is the sentiment among the following possible answers? please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Regarding functional dimension in Switzerland, what is the article about? Please answer with one of the only possible following answers (Functional Dimension not addressed, Education system, Science/innovation, Products, Economy, Infrastructure, Politics, Living/working conditions, Security, Other aspect of Functional dimension)?",
+        "Regarding functional dimension in Switzerland, what is the sentiment among the following possible answers? please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Regarding normative dimension in Switzerland, what is the article about? Please answer with one of the only possible following answers (Normative Dimension not addressed, Environmental protection, Freedom/human rights, Civil rights, International engagement, Ethical issues/scandals, Conflict avoidance, Tolerance/openness, Other aspect of Normative dimension)?",
+        "Regarding normative dimension in Switzerland, what is the sentiment among the following possible answers? please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Regarding cultural dimension in Switzerland, what is the article about? Please answer with one of the only possible following answers (Cultural Dimension not addressed, Sports, Food, Cultural offer, Personalities, Traditions, History, Cultural diversity, Other aspect of Culture dimension)?",
+        "Regarding cultural dimension in Switzerland, what is the sentiment among the following possible answers? please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Among the following possible answers (No disinformation type, False connection, False context, Misleading content, Fabricated content, Manipulated content, Other disinformation type), is there in the article disinformation?"
+        "Among the following possible answers (No disinformation technique, Ad hominem attack, Emotional language, False dichotomies, Incoherence, Scapegoating, Other disinformation technique), what is the disinformation technique that is used if any?",
+        "What is it about in short?"
+    ]
+
+columns_12 = [
+        'overall_sentiment',
+        'nature_dimension',
+        'nature_sentiment',
+        'functional_dimension',
+        'functional_sentiment',
+        'normative_dimension',
+        'normative_sentiment',
+        'cultural_dimension',
+        'cultural_sentiment',
+        'disinformation_type',
+        'disinformation_technique',
+        'summary'
+    ]
+
+
+questions_6 = [
+        "Regarding Switzerland, what is the overall sentiment in the article among the following possible answers? Please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, or Very positive)",
+        "Regarding natural dimension in Switzerland, what is the sentiment in the article among the following possible answers? Please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Regarding functional dimension in Switzerland, what is the sentiment in the article among the following possible answers? Please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Regarding normative dimension in Switzerland, what is the sentiment in the article among the following possible answers? Please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Regarding cultural dimension in Switzerland, what is the sentiment in the article among the following possible answers? Please answer with one of the only possible following answers (Very negative, Negative, Neutral, Positive, Very positive, No Sentiment)?",
+        "Among the following possible answers (No disinformation type, False connection, False context, Misleading content, Fabricated content, Manipulated content, Other disinformation type), is there in the article disinformation?"
+    ]
+
+columns_6 = [
+        'overall_sentiment',
+        'nature_sentiment',
+        'functional_sentiment',
+        'normative_sentiment',
+        'cultural_sentiment',
+        'disinformation_type',
+    ]
+	
+	
+	
+	
+prompt = f"Here is an article about Switzerland:\n\n{article}\n\nPlease answer the following questions, each on a separate line:\n"
+for i, q in enumerate(questions, 1):
+    prompt += f"{i}. {q}\n"

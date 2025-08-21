@@ -1,0 +1,5 @@
+Content words counter: 40728
+num_con: 299
+Extended content words counter: 190270
+num_ext_con: 359
+data_v2: 658

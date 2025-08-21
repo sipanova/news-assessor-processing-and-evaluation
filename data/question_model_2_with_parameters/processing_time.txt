@@ -1,0 +1,163 @@
+Mistral-7B-Instruct-0.1
+This is loop number 1
+2025-06-13_00-41-37
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_01-17-51
+--------------------------------------------------
+This is loop number 2
+2025-06-13_01-17-51
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_01-55-02
+--------------------------------------------------
+This is loop number 3
+2025-06-13_01-55-02
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_02-30-58
+--------------------------------------------------
+This is loop number 4
+2025-06-13_02-30-58
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_03-08-29
+--------------------------------------------------
+This is loop number 5
+2025-06-13_03-08-29
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_03-44-27
+--------------------------------------------------
+
+
+
+
+
+
+Mistral-Nemo-Instruct-2407
+This is loop number 1
+2025-06-13_03-49-21
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_04-15-24
+--------------------------------------------------
+This is loop number 2
+2025-06-13_04-15-24
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_04-41-58
+--------------------------------------------------
+This is loop number 3
+2025-06-13_04-41-58
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_05-08-44
+--------------------------------------------------
+This is loop number 4
+2025-06-13_05-08-44
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_05-35-45
+--------------------------------------------------
+This is loop number 5
+2025-06-13_05-35-45
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_06-02-30
+--------------------------------------------------
+
+
+
+
+
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Llama-3.2-3B-Instruct
+2025-06-13_06-04-58
+This is loop number 1
+2025-06-13_06-04-58
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_07-53-45
+--------------------------------------------------
+This is loop number 2
+2025-06-13_07-53-45
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_09-39-27
+--------------------------------------------------
+This is loop number 3
+2025-06-13_09-39-27
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_11-29-34
+--------------------------------------------------
+This is loop number 4
+2025-06-13_11-29-34
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_13-19-35
+--------------------------------------------------
+This is loop number 5
+2025-06-13_13-19-35
+Data len: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Processing complete. Saved to CSV.
+2025-06-13_15-13-53
+--------------------------------------------------
+
+
+
+
+granite-3.3-8b-instruct
+This is loop number 1
+2025-06-14_01-10-41
+Data length: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+2025-06-14_05-34-08
+--------------------------------------------------
+This is loop number 2
+2025-06-14_05-34-08
+Data length: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+2025-06-14_09-51-24
+--------------------------------------------------
+This is loop number 3
+2025-06-14_09-51-24
+Data length: 133
+/usr/local/lib/python3.11/dist-packages/bitsandbytes/autograd/_functions.py:185: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+2025-06-14_14-03-51
+--------------------------------------------------
